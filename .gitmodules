@@ -1,0 +1,3 @@
+[submodule "libs/CommonUI"]
+	path = libs/CommonUI
+	url = git@github.com:zhengjianing/Learn-GitSubmodule-CommonUI.git
